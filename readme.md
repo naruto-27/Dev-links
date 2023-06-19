@@ -9,19 +9,19 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/agostinhomarcia/my-links?color=008B8B">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/naruto-27/Dev-links?color=008B8B">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/agostinhomarcia/my-links?color=008B8B">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/naruto-27/Dev-links?color=008B8B">
 <!-- 
   <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/projeto-doguinho?color=008B8B"> -->
 
   <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/my-links?color=008B8B">
 
-   <img alt="Github issues" src="https://img.shields.io/github/issues/agostinhomarcia/my-links?color=008B8B" />
+   <img alt="Github issues" src="https://img.shields.io/github/issues/naruto-27/Dev-links?color=008B8B" />
 
-   <img alt="Github forks" src="https://img.shields.io/github/forks/agostinhomarcia/my-links?color=008B8B" />
+   <img alt="Github forks" src="https://img.shields.io/github/forks/naruto-27/Dev-links?color=008B8B" />
 
-   <img alt="Github stars" src="https://img.shields.io/github/stars/agostinhomarcia/my-links?color=008B8B" /> 
+   <img alt="Github stars" src="https://img.shields.io/github/stars/naruto-27/Dev-links?color=008B8B" /> 
 </p>
 
 <p align="center">
@@ -31,8 +31,8 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="https://github.com/agostinhomarcia" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="https://linktree-marcia.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://github.com/naruto-27" target="_blank">Author</a>&#xa0; | &#xa0
+  <a href="" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
@@ -73,20 +73,21 @@ The following tools were used in this project:
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 ## :checkered_flag: Starting
-
+```
 bash
 # Clone this project
-$ git clone https://github.com/agostinhomarcia/my-links.git
+$ git clone https://github.com/naruto-27/Dev-links.git
 # Access
 $ cd my-links
 # The server will initialize in the <http://localhost:3000>
+```
 
 
 ## :memo: License
 
 This project is under the [MIT license](./LICENSE).
 
-Made with love by [Márcia Agostinho](https://github.com/agostinhomarcia) 🚀.
+Made with love by [Marciana Agostinho](https://github.com/naruto-27/Dev-links) 🚀.
 
 <p align="center">
    <img src="https://media.giphy.com/media/WMRGlB65REWsXNJyAq/giphy.gif
