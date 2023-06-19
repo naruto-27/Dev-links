@@ -9,13 +9,13 @@
 <h1 align="center"></h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/naruto-27/Dev-links?color=008B8B">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/naruto-27/Dev-links?color=008B8B"/>
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/naruto-27/Dev-links?color=008B8B">
-<!-- 
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/naruto-27/Dev-links?color=008B8B"/>
+    <!-- 
   <img alt="Repository size" src="https://img.shields.io/agostinhomarcia/projeto-doguinho?color=008B8B"> -->
 
-  <img alt="License" src="https://img.shields.io/github/license/agostinhomarcia/my-links?color=008B8B">
+  <img alt="License" src="https://img.shields.io/github/license/naruto-27/Dev-links?color=008B8B"/>
 
    <img alt="Github issues" src="https://img.shields.io/github/issues/naruto-27/Dev-links?color=008B8B" />
 
