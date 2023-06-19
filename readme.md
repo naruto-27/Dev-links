@@ -32,7 +32,7 @@
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
   <a href="https://github.com/naruto-27" target="_blank">Author</a>&#xa0; | &#xa0
-  <a href="" target="_blank" rel="noopener noreferrer">Projeto</a>
+  <a href="https://dev-links-iota.vercel.app/" target="_blank" rel="noopener noreferrer">Projeto</a>
 </p>
 
 <br>
@@ -78,7 +78,7 @@ bash
 # Clone this project
 $ git clone https://github.com/naruto-27/Dev-links.git
 # Access
-$ cd my-links
+$ cd Dev-links
 # The server will initialize in the <http://localhost:3000>
 ```
 
